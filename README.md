@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=pozz-seang&label=Profile%20Views&color=0e75b6&style=flat-square" alt="pozz-seang profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pozz-seang&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="pozz-seang trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
